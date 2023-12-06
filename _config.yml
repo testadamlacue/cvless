@@ -5,7 +5,7 @@ description: Jekyll theme for a beautiful online CV
 taglong: Jekyll theme for a beautiful online CV
 tagshort: Jekyll theme
 url: https://gsantella.github.io/cvless/
-baseurl: ""
+baseurl: "cvless"
 permalink: pretty
 repo: https://github.com/gsantella/cvless
 
